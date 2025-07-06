@@ -1,13 +1,3 @@
-# Responsive Travel Website 🌊
-## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
-###  Responsive Travel Website 🌊
-
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+"A fully responsive, visually captivating, and modern travel agency website designed to attract and engage travelers. This website showcases a wide range of popular destinations, exclusive travel packages, and essential travel services, all presented through a clean, user-friendly interface. Developed using the latest web technologies including HTML5, CSS3, and Bootstrap 5, it ensures seamless performance across all devices, from desktops to smartphones. The sleek layout, intuitive navigation, and interactive elements together create an immersive browsing experience, making it easier for users to explore, plan, and book their perfect trips with ease."
 
 ![travel-website](/preview.png)
